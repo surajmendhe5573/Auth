@@ -1,4 +1,4 @@
-# Auth
+# Auth API
 ## User
   - User Register
   - User Login
